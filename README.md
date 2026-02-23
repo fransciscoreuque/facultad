@@ -15,13 +15,13 @@ I use this repo to **track my progress** and keep a record of my career.
 ![Pending](https://img.shields.io/badge/Pending-11-lightgrey)
 
 **Total subjects:** 15  
-**Completed:** 2  
-**In progress:** 2  
-**Pending:** 11  
+**Completed:** 4  
+**In progress:** 1  
+**Pending:** 10  
 
 **Total hours:** 1,664  
-**Hours completed:** 256  
-**Hours in progress:** 192  
+**Hours completed:** 448  
+**Hours in progress:** 0  
 **Hours pending:** 1,216  
 
 ---
@@ -32,7 +32,7 @@ I use this repo to **track my progress** and keep a record of my career.
 | Subject | Hours | Status |
 |---------|-------|--------|
 | Matemática General | 128 | ✅ Approved (Grade: 8) |
-| Introducción a la Computación | 128 | ⏳ In progress |
+| Introducción a la Computación | 128 | ✅ Approved (Grade: 8) |
 | Inglés Técnico | 64 | ⚠️ Conditionally Passed |
 
 ---
@@ -49,7 +49,7 @@ I use this repo to **track my progress** and keep a record of my career.
 ### Cuatrimestre 3
 | Subject | Hours | Status |
 |---------|-------|--------|
-| Software Libre | 64 | ⏳ In progress |
+| Software Libre | 64 | ✅ Approved (Grade: 10) |
 | Taller de Hardware y Software | 128 | 📌 Pending |
 | Administración de Sistemas | 128 | 📌 Pending |
 
