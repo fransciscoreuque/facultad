@@ -9,10 +9,10 @@ I use this repo to **track my progress** and keep a record of my career.
 
 ## 📊 Summary
 
-![Progress](https://img.shields.io/badge/Progress-13%25-blue)
-![Completed](https://img.shields.io/badge/Subjects_Completed-2-green)
-![In_Progress](https://img.shields.io/badge/In_Progress-2-orange)
-![Pending](https://img.shields.io/badge/Pending-11-lightgrey)
+![Progress](https://img.shields.io/badge/Progress-26.66%25-blue)
+![Completed](https://img.shields.io/badge/Subjects_Completed-4-green)
+![In_Progress](https://img.shields.io/badge/In_Progress-1-orange)
+![Pending](https://img.shields.io/badge/Pending-10-lightgrey)
 
 **Total subjects:** 15  
 **Completed:** 4  
